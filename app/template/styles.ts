@@ -138,7 +138,7 @@ export const styles = {
   rewardImageBox: { display: "flex", justifyContent: "center" },
   rewardImages: { height: 80, width: 80, margin: "0px 2px" },
   animationBox: {
-    width: "100%",
-    height: { xs: "200px", sm: "500px", md: "600px", lg:"100%" },
+    width: {xs:"100%",lg:"700px"},
+    height: { xs: "200px", sm: "500px", md: "600px", lg: "60%" },
   },
 };
